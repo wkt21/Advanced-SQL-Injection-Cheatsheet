@@ -10,30 +10,7 @@ https://img.shields.io/badge/Category-Application%20Security-blue
 https://img.shields.io/badge/Use-Red%20Team%20%2F%20Blue%20Team%20Training-orange  
 https://img.shields.io/badge/License-MIT-lightgrey
 
-Repository Navigation
-Core System
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
-Database-Specific SQLi Analysis
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 
 Purpose
 This repository provides a complete attack/defense pairing system for SQL Injection:
