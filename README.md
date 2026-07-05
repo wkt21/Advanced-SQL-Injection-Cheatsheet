@@ -4,11 +4,7 @@
 Advanced SQL Injection Cheatsheet
 A defensive, educational repository for SQL Injection analysis, SOC training, and red team simulations.
 
-Badges
-https://img.shields.io/badge/Status-Active-green  
-https://img.shields.io/badge/Category-Application%20Security-blue  
-https://img.shields.io/badge/Use-Red%20Team%20%2F%20Blue%20Team%20Training-orange  
-https://img.shields.io/badge/License-MIT-lightgrey
+
 
 
 
